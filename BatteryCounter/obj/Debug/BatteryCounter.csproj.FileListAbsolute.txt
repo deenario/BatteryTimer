@@ -1,0 +1,12 @@
+C:\Users\deena\OneDrive\Github\Visual_Studio_Projects\BatteryCounter\BatteryCounter\bin\Debug\BatteryCounter.exe.config
+C:\Users\deena\OneDrive\Github\Visual_Studio_Projects\BatteryCounter\BatteryCounter\bin\Debug\BatteryCounter.exe
+C:\Users\deena\OneDrive\Github\Visual_Studio_Projects\BatteryCounter\BatteryCounter\bin\Debug\BatteryCounter.pdb
+C:\Users\deena\OneDrive\Github\Visual_Studio_Projects\BatteryCounter\BatteryCounter\obj\Debug\BatteryCounter.Form1.resources
+C:\Users\deena\OneDrive\Github\Visual_Studio_Projects\BatteryCounter\BatteryCounter\obj\Debug\BatteryCounter.Properties.Resources.resources
+C:\Users\deena\OneDrive\Github\Visual_Studio_Projects\BatteryCounter\BatteryCounter\obj\Debug\BatteryCounter.csproj.GenerateResource.Cache
+C:\Users\deena\OneDrive\Github\Visual_Studio_Projects\BatteryCounter\BatteryCounter\obj\Debug\BatteryCounter.exe
+C:\Users\deena\OneDrive\Github\Visual_Studio_Projects\BatteryCounter\BatteryCounter\obj\Debug\BatteryCounter.pdb
+C:\Users\deena\OneDrive\Github\Visual_Studio_Projects\BatteryCounter\BatteryCounter\obj\Debug\BatteryCounter.csprojResolveAssemblyReference.cache
+C:\Users\deena\OneDrive\Github\BatteryCounter\BatteryCounter\bin\Debug\BatteryCounter.exe.config
+C:\Users\deena\OneDrive\Github\BatteryCounter\BatteryCounter\obj\Debug\BatteryCounter.exe
+C:\Users\deena\OneDrive\Github\BatteryCounter\BatteryCounter\obj\Debug\BatteryCounter.pdb
